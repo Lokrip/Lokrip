@@ -30,3 +30,11 @@
 📚 Completed numerous online development courses during 2023-2024, which helped me master both frontend 🌐 and backend 🔧 technologies.<br>
 💼 Since then, I've been gaining commercial experience by working on various projects.<br>
 🎨 Passionate about creating efficient and visually appealing web applications, as well as solving complex tasks related to server logic and databases.</p>
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+###
