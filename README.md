@@ -82,14 +82,11 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokrip&theme=apprentice" height="220" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lokrip&theme=apprentice&utcOffset=8" height="150" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lokrip&theme=apprentice&utcOffset=8" height="220" alt="stats graph"  />
 </div>
 
-###
