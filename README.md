@@ -22,6 +22,14 @@
 
 ###
 
+<div align="left">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip" alt="Visitor Badge" />
+  </a>
+</div>
+
+###
+
 <h3 align="left">👩‍💻  About me</h3>
 
 ###
@@ -91,11 +99,6 @@
 
 **`Thank you for learning about me!`**
 
-<div align="left">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip" alt="Visitor Badge" />
-  </a>
-</div>
-
+<h2 align="left">Have a nice day</h3>
 ###
 
