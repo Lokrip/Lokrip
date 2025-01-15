@@ -52,15 +52,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=http" height="40" alt="http logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=celery" height="40" alt="celery logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
@@ -70,27 +66,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ajax" height="40" alt="ajax logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jwt" height="40" alt="jwt logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solid" height="40" alt="solid logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=oop" height="40" alt="oop logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fsd" height="40" alt="feature-sliced design logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
   <img width="12" />
@@ -99,12 +83,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django framework logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=djangorestframework" height="40" alt="django rest framework logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=restapi" height="40" alt="rest api logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dockercompose" height="40" alt="docker-compose logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
