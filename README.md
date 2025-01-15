@@ -79,9 +79,8 @@
 
 ###
 
-<h3 align="left">🔥   Cтатистика :</h3>
+> <h3 align="left">🔥   Cтатистика :</h3>
 
-###
 ###
 
 <div align="left" style="display: flex; flex-direction: column; justify-content: space-between; align-items: flex-start;">
