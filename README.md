@@ -99,6 +99,5 @@
 
 **`Thank you for learning about me!`**
 
-<h2 align="left">Have a nice day</h3>
-###
+<h2 align="left">Have a nice day</h2>
 
