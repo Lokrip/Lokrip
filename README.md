@@ -91,10 +91,7 @@
 
 <hr>
 
-<div align="left">
-  **`Thank you for learning about me!`**
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip" alt="Visitor Badge" />
-</div>
+**`Thank you for learning about me!`** <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip" alt="Visitor Badge" />
 
 ###
 
