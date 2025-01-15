@@ -78,6 +78,15 @@
 
 ###
 
+**`Thank you for learning about me!`**
+
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip" alt="Visitor Badge" />
+</div>
+
+###
+
 <h3 align="left">🔥 Statistics :</h3>
 
 ###
@@ -95,4 +104,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip" alt="Visitor Badge" />
 </div>
+
+###
 
