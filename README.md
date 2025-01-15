@@ -83,10 +83,6 @@
 ###
 
 <div align="left" style="display: flex; flex-direction: column; justify-content: space-between; align-items: flex-start;">
-  <div align="left">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokrip&theme=aura_dark" height="220" alt="streak graph"  />
-  </div>
-  <div align="right" style="margin-left: auto;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lokrip&theme=aura_dark&utcOffset=8" height="220" alt="stats graph"  />
-  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokrip&theme=aura_dark" height="220" alt="streak graph"  />
+  <img style="margin-left: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lokrip&theme=aura_dark&utcOffset=8" height="220" alt="stats graph"  />
 </div>
