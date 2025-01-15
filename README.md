@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
