@@ -82,14 +82,14 @@
 
 ###
 
-<div align="left" style="display: flex; flex-direction: column; justify-content: space-between; align-items: flex-start;">
+<div align="left">
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokrip&theme=aura_dark" height="220" alt="streak graph"  />
   <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lokrip&theme=aura_dark&utcOffset=8" height="220" alt="stats graph"  />
 </div>
 
 ###
 
-**`Thank you for learning about me!`**
+<h4 align="left">**`Thank you for learning about me!`**</h4>
 
 <div align="center">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip">
