@@ -49,39 +49,23 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django framework logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring framework logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=scss" height="40" alt="scss logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
