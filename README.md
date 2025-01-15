@@ -89,6 +89,8 @@
 
 ###
 
+<hr>
+
 **`Thank you for learning about me!`**
 
 
