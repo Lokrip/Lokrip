@@ -77,3 +77,19 @@
 </div>
 
 ###
+
+<h3 align="left">🔥   Cтатистика :</h3>
+
+###
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokrip&theme=apprentice" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lokrip&theme=apprentice&utcOffset=8" height="150" alt="stats graph"  />
+</div>
+
+###
