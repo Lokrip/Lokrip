@@ -87,12 +87,12 @@
   <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lokrip&theme=aura_dark&utcOffset=8" height="220" alt="stats graph"  />
 </div>
 
-<div style="clear: both;"></div>
+###
 
 **`Thank you for learning about me!`**
 
+
 <div align="left">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip" alt="Visitor Badge" />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip" alt="Visitor Badge" />
 </div>
+
