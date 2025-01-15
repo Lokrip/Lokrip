@@ -1,4 +1,4 @@
-## Привет👋 Меня зовут Алексей!
+## Hello👋 my name is Slava!
 
 **`I'm a FullStack developer contributing to the open source Zulip project!`**
 
@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Начал свой путь в программировании в 2022-2023 годах.<br>
-📚 За 2023-2024 год прошел множество онлайн-курсов по разработке, что позволило мне освоить как фронтенд 🌐, так и бэкенд 🔧 технологии.<br>
-💼 С этого времени начал набирать коммерческий опыт, работая над разнообразными проектами.<br>
-🎨 Увлечен созданием эффективных и эстетически привлекательных веб-приложений, а также решением сложных задач, связанных с серверной логикой и базами данных.</p>
+<p align="left">👨‍💻 Started my programming journey in 2022-2023.<br>
+📚 Completed numerous online development courses during 2023-2024, which helped me master both frontend 🌐 and backend 🔧 technologies.<br>
+💼 Since then, I've been gaining commercial experience by working on various projects.<br>
+🎨 Passionate about creating efficient and visually appealing web applications, as well as solving complex tasks related to server logic and databases.</p>
