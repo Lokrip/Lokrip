@@ -91,7 +91,7 @@
 
 <hr>
 
-**`Thank you for learning about me!`** <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip" alt="Visitor Badge" />
+**`Thank you for learning about me!`** [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip)
 
 ###
 
