@@ -83,18 +83,12 @@
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="ci/cd logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=digitalocean" height="40" alt="digitalocean logo" />
 </div>
 
