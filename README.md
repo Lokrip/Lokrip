@@ -85,9 +85,9 @@
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="ci/cd logo" />
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  <img src="https://skillicons.dev/icons?i=digitalocean" height="40" alt="digitalocean logo" />
   <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="google cloud logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=digitalocean" height="40" alt="digitalocean logo" />
 </div>
 
 ###
