@@ -55,7 +55,7 @@
 
 <h3 align="left">🛠 Technologies:</h3>
 
-###
+### **`BACKEND`**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
@@ -64,30 +64,50 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django framework logo" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring framework logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js logo" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+</div>
+
+### **`FRONTEND`**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img src="https://skillicons.dev/icons?i=scss" height="40" alt="scss logo" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
+</div>
+
+### **`TOOLS & UTILITIES`**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="ci/cd logo" />
+</div>
+
+### **`CLOUD & HOSTING`**
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="google cloud logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img src="https://skillicons.dev/icons?i=digitalocean" height="40" alt="digitalocean logo" />
+</div>
+
+### **`DESIGN`**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
 </div>
 
 ###
