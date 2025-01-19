@@ -58,13 +58,10 @@
 ### **`BACKEND`**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django framework logo" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring framework logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js logo" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
@@ -74,7 +71,10 @@
 ### **`FRONTEND`**
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js logo" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
