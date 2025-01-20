@@ -3,14 +3,13 @@
 **`I'm a FullStack developer contributing to the open source Zulip project!`**
 
 ###
-
-
-<div align="left">
-  <style>
+<style>
   a {
     text-decoration: none;
   }
-  </style>
+</style>
+
+<div align="left">
   <a href="https://www.instagram.com/cook1e____/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
