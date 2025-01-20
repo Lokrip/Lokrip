@@ -3,11 +3,6 @@
 **`I'm a FullStack developer contributing to the open source Zulip project!`**
 
 ###
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
 
 <div align="left">
   <a href="https://www.instagram.com/cook1e____/" target="_blank">
