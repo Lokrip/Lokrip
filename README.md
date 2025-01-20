@@ -22,24 +22,6 @@
   </a>
 </div>
 
-<p align="left">
-   <a href="https://www.instagram.com/cook1e____/">
-      <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/instagram/followers/cook1e____?color=%23E1306C&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge&labelColor=D0296E"/>
-   </a>
-   <a href="https://t.me/Lokrip">
-      <img alt="Telegram" title="Follow me on Telegram" src="https://custom-icon-badges.demolab.com/telegram/followers/Lokrip?color=%230077B5&label=Telegram&logo=telegram&logoColor=white&style=for-the-badge&labelColor=007AB5"/>
-   </a>
-   <a href="https://leetcode.com/u/lokrip2">
-      <img alt="LeetCode" title="Follow me on LeetCode" src="https://custom-icon-badges.demolab.com/leetcode/user/lokrip2?color=%23004572&label=LeetCode&logo=leetcode&logoColor=white&style=for-the-badge&labelColor=004A6D"/>
-   </a>
-   <a href="https://www.codewars.com/users/LOKR1P">
-      <img alt="Codewars" title="Follow me on Codewars" src="https://custom-icon-badges.demolab.com/codewars/user/LOKR1P?color=%23B1361E&label=Codewars&logo=codewars&logoColor=white&style=for-the-badge&labelColor=9A2D1B"/>
-   </a>
-   <a href="https://lalafo.kg/user/12763056">
-      <img alt="Lalafo" title="Follow me on Lalafo" src="https://custom-icon-badges.demolab.com/lalafo/user/12763056?color=%23FF8C00&label=Lalafo&logo=shopping-basket&logoColor=white&style=for-the-badge&labelColor=FFA500"/>
-   </a>
-</p>
-
 ###
 
 <div align="left">
