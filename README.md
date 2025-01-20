@@ -20,6 +20,22 @@
   </a>
 </div>
 
+<p align="left">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+    <a href="https://t.me/Lokrip" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+    </a>
+    <a href="https://leetcode.com/u/lokrip2" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+    </a>
+    <a href="https://www.codewars.com/users/LOKR1P" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=B1361E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codewars logo" />
+    </a>
+    <a href="https://lalafo.kg/user/12763056" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Lalafo&logo=lalafo&label=&color=007AFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="lalafo logo" />
+    </a>
+</p>
+
 ###
 
 <div align="left">
