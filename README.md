@@ -5,7 +5,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  <a href="https://www.instagram.com/cook1e____/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
   <a href="https://t.me/Lokrip" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
@@ -21,15 +23,22 @@
 </div>
 
 <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+   <a href="https://www.instagram.com/cook1e____/">
+      <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/instagram/followers/cook1e____?color=%23E1306C&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge&labelColor=D0296E"/>
+   </a>
+   <a href="https://t.me/Lokrip">
+      <img alt="Telegram" title="Follow me on Telegram" src="https://custom-icon-badges.demolab.com/telegram/followers/Lokrip?color=%230077B5&label=Telegram&logo=telegram&logoColor=white&style=for-the-badge&labelColor=007AB5"/>
+   </a>
+   <a href="https://leetcode.com/u/lokrip2">
+      <img alt="LeetCode" title="Follow me on LeetCode" src="https://custom-icon-badges.demolab.com/leetcode/user/lokrip2?color=%23004572&label=LeetCode&logo=leetcode&logoColor=white&style=for-the-badge&labelColor=004A6D"/>
+   </a>
+   <a href="https://www.codewars.com/users/LOKR1P">
+      <img alt="Codewars" title="Follow me on Codewars" src="https://custom-icon-badges.demolab.com/codewars/user/LOKR1P?color=%23B1361E&label=Codewars&logo=codewars&logoColor=white&style=for-the-badge&labelColor=9A2D1B"/>
+   </a>
+   <a href="https://lalafo.kg/user/12763056">
+      <img alt="Lalafo" title="Follow me on Lalafo" src="https://custom-icon-badges.demolab.com/lalafo/user/12763056?color=%23FF8C00&label=Lalafo&logo=shopping-basket&logoColor=white&style=for-the-badge&labelColor=FFA500"/>
+   </a>
+</p>
 
 ###
 
