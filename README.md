@@ -55,9 +55,7 @@
 
 <h3 align="left">🛠 Technologies:</h3>
 
-### **`BACKEND`**
-
-<hr>
+#### **`BACKEND`**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
@@ -70,9 +68,8 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
 </div>
 
-### **`FRONTEND`**
+#### **`FRONTEND`**
 
-<hr>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="typescript logo" />
@@ -88,9 +85,8 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo" />
 </div>
 
-### **`TOOLS & UTILITIES`**
+#### **`TOOLS & UTILITIES`**
 
-<hr>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
@@ -101,9 +97,7 @@
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="ci/cd logo" />
 </div>
 
-### **`CLOUD & HOSTING`**
-
-<hr>
+#### **`CLOUD & HOSTING`**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo" />
@@ -112,9 +106,8 @@
   <img src="https://skillicons.dev/icons?i=digitalocean" height="40" alt="digitalocean logo" />
 </div>
 
-### **`DESIGN`**
+#### **`DESIGN`**
 
-<hr>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
