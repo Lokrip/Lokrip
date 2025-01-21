@@ -17,20 +17,17 @@
   <a href="https://www.codewars.com/users/LOKR1P" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=B1361E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codewars logo" />
   </a>
-  <a href="https://lalafo.kg/user/12763056" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Lalafo&logo=lalafo&label=&color=007AFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="lalafo logo" />
-  </a>
 </div>
 
 <div align="left">
   <a href="https://lalafo.kg/user/12763056" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Lalafo&logo=lalafo&label=&color=007AFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="lalafo logo" />
   </a>
-  <a href="https://hh.kz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Head%20Hunter&logo=headhunter&label=&color=007AFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="head hunter logo" />
-  </a>
   <a href="https://bishkek.headhunter.kg/resume/5c7d196bff0d60cdb20039ed1f455464726555" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007AFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=head%20hunter&logo=headhunter&label=&color=ff2a00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="head hunter logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/slava-dorokhov-101471333/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=3677c6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
 
