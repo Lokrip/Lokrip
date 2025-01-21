@@ -21,7 +21,7 @@
 
 <div align="left">
   <a href="https://lalafo.kg/user/12763056" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Lalafo&logo=lalafo&label=&color=007AFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="lalafo logo" />
+    <img src="https://img.shields.io/static/v1?message=Lalafo&logo=lalafo&label=&color=22ca46&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="lalafo logo" />
   </a>
   <a href="https://bishkek.headhunter.kg/resume/5c7d196bff0d60cdb20039ed1f455464726555" target="_blank">
     <img src="https://img.shields.io/static/v1?message=head%20hunter&logo=headhunter&label=&color=ff2a00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="head hunter logo" />
