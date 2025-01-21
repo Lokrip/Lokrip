@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/static/v1?message=head%20hunter&logo=headhunter&label=&color=ff2a00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="head hunter logo" />
   </a>
   <a href="https://www.linkedin.com/in/slava-dorokhov-101471333/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=3677c6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0a66c2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
 
