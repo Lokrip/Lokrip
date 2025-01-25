@@ -129,10 +129,11 @@
 
 ###
 
-<div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokrip&theme=aura_dark" height="220" alt="streak graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lokrip&theme=aura_dark&utcOffset=8" height="220" alt="stats graph"  />
-</div>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lokrip&theme=aura_dark)](https://github.com/Lokrip/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lokrip&theme=aura_dark)](https://github.com/Lokrip/github-profile-summary-cards) 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lokrip&theme=aura_dark)](https://github.com/Lokrip/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lokrip&theme=aura_dark)](https://github.com/Lokrip/github-profile-summary-cards) 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lokrip&theme=aura_dark)](https://github.com/Lokrip/github-profile-summary-cards)
 
 ###
 
