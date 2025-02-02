@@ -136,7 +136,7 @@
 
 ###
 
-**`Thank you for learning about me!`**
+**`Thank you for learning about me!!`**
 
 <h2 align="left">Have a nice day</h2>
 
