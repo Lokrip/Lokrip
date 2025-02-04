@@ -1,6 +1,8 @@
 ## Hello👋 my name is Slava!
 
-**`I'm a FullStack developer contributing to the open source Zulip project!`**
+```python
+print("I'm a FullStack developer contributing to the open source Zulip project!")
+```
 
 ###
 
