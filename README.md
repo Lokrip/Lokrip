@@ -33,7 +33,7 @@
 
 ###
 
-![alt text](https://www.codewars.com/users/Hu88le/badges/large)
+![alt text](https://www.codewars.com/users/LOKR1P/badges/large)
 
 ###
 
