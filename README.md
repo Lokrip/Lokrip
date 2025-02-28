@@ -33,6 +33,10 @@
 
 ###
 
+![alt text](https://www.codewars.com/users/Hu88le/badges/large)
+
+###
+
 <div align="left">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip" alt="Visitor Badge" />
