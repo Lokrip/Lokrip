@@ -37,10 +37,6 @@
 
 ###
 
-![alt text](https://www.codewars.com/users/LOKR1P/badges/micro)
-
-###
-
 <div align="left">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Lokrip.Lokrip" alt="Visitor Badge" />
